@@ -1,3 +1,4 @@
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -6,18 +7,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependencias y compilación (Corregido con /)
+node_modules/
+dist/
+dist-ssr/
+.bolt/
+
+# Archivos locales y entorno
+.env
 *.local
 
-.vscode/*
+# Editores y Sistema Operativo
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.env
+
