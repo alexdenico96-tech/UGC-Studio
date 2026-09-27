@@ -150,3 +150,7 @@ npm run preview
 | No puedo registrarme | Asegúrate de que el email tenga formato válido y la contraseña tenga al menos 6 caracteres |
 | Los cambios no se ven | Reinicia el servidor con `Ctrl+C` y vuelve a ejecutar `npm run dev` |
 | Puerto en uso | Vite usará automáticamente otro puerto (5174, 5175…) si el 5173 está ocupado |
+
+## 10. Aplicación en producción:
+
+https://ugc-studio-cdwk.onrender.com/#/login
