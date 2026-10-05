@@ -153,4 +153,4 @@ npm run preview
 
 ## 10. Aplicación en producción:
 
-https://ugc-studio-cdwk.onrender.com/#/login
+https://ugc-studio-by71.vercel.app
